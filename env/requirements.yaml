@@ -13,3 +13,6 @@ dependencies:
 - name: lva-spreadsheet-generator
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.3.3
+- name: lva-wingman-templates
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.3.9
