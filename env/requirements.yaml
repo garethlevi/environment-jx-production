@@ -10,6 +10,9 @@ dependencies:
 - name: lva-document-handler
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.7.14
+- name: lva-electronic-page-handler
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 2.3.10
 - name: lva-electronic-page-processor
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.2.5
